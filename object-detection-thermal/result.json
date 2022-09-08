@@ -1,0 +1,10 @@
+[
+{
+ "frame_id":1, 
+ "filename":"./data/FLIR_00006.jpeg", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.784245, "center_y":0.545032, "width":0.374757, "height":0.396603}, "confidence":0.999684}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.058489, "center_y":0.531209, "width":0.121302, "height":0.137839}, "confidence":0.879002}
+ ] 
+}
+]
